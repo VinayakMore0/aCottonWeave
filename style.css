@@ -231,8 +231,8 @@ html, body {
     }
     
     #black-circle {
-        width: 70px;
-        height: 70px;
+        width: 69px;
+        height: 69px;
         right: 0%;
         top: 0%;
         transform: translate(50%, -50%);
